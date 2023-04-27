@@ -1,7 +1,7 @@
 <?php
 /**
   * Plugin Name: Custom Plugin for User-Data
-  * Plugin URI: https://github.com/wpwebguru/Username-Inputer
+  * Plugin URI: https://github.com/wpwebguru/Custom-Plugin-for-User-Data
   * Description: Shortcodes:: [susy_login_user_name]  and [pub-username]. Shortcodes for Metadata:: [user-info-email] [user-info-name] [user-info-phone] [user-info-links] [user-info-whatsapp] | This shortcode is showing user info on the page [susy-user-phone] and [susy-user-phone]
   * Version: 1.1.6
   * Author: Sunny
